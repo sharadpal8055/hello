@@ -1,4 +1,4 @@
-# 🛡️ CodeNova: Adaptive Object Recognition System
+#🛡️ CodeNova: Adaptive Object Recognition System
 
 ### *Empowering Vision with Dynamic Real-Time Learning*
 
